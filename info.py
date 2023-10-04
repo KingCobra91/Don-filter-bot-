@@ -83,6 +83,6 @@ CAPTION_BUTTON_URL = "https://t.me/benzmovies"
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
-DOWNLOAD_TEXT_URL = "https://telegram.dog/howtosolvelinks/2"
+DOWNLOAD_TEXT_URL = "https://telegram.dog/howtosolvelinks/4"
 
    # Auto Delete For Bot Sending Files #
