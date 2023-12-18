@@ -75,7 +75,7 @@ URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', 'd472767543d3
 SELF_DELETE_SECONDS = int(environ.get('SELF_DELETE_SECONDS', 330))
 SELF_DELETE = environ.get('SELF_DELETE', True)
 if SELF_DELETE == "True":
-    SELF_DELETE = True
+    SELF_DELETE = False
 
 # Subscribe channel Button #
 CAPTION_BUTTON = "⚡ Sᴜʙsᴄʀɪʙᴇ Cʜᴀɴɴᴇʟ ⚡"
