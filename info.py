@@ -83,6 +83,6 @@ CAPTION_BUTTON_URL = "https://t.me/Donvijays"
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
-DOWNLOAD_TEXT_URL = "https://t.me/how_to_download1000/5"
+DOWNLOAD_TEXT_URL = "https://t.me/how_to_download1000/6"
 
    # Auto Delete For Bot Sending Files #
